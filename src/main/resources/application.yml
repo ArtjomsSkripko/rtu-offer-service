@@ -1,0 +1,9 @@
+server:
+  port: 8087
+
+intercity:
+  host: http://localhost:8084
+  path: /v1/intercity/
+regional:
+  host: http://localhost:8083
+  path: /v1/regional/

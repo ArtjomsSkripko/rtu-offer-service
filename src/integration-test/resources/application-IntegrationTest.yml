@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+intercity:
+  host: http://localhost:9090
+regional:
+  host: http://localhost:9090
